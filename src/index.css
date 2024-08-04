@@ -1,0 +1,19 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* .ambulance {
+	height: 11rem;
+	z-index: 0;
+	bottom: 21rem;
+	top: 2 5%;
+	left: 50%;
+	transform: translate(-50%, 50%);
+	left: calc(55% - 9.2rem); */
+	/* position: fixed;
+	opacity: 0;
+} */
